@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-GitHub is so fun!
+"Dragon are amazing! :DDD"
 Use the left arrow to go back!
